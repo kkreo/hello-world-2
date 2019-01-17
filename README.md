@@ -2,3 +2,5 @@
 Not this time
 
 Apache helicopter, thats who I am.
+
+druga zmiana
